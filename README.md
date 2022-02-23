@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @markpouncey
+- 👋 Hi, I’m mark pouncey
 - 👀 I’m a wordpress web developer and graphic artist
 - 🌱 I’m currently looking for projects
 - 💞️ I have local references
